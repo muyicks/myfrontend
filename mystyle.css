@@ -1,0 +1,22 @@
+body {
+    text-transform: capitalize;
+    background-color: #e4c1c1;
+}
+
+.add-btn-styled {
+    background-color: rgb(170, 240, 6);
+    border: 1px solid rgb(3, 19, 156);
+}
+
+.remove-btn-styled {
+    background-color: rgb(245, 241, 9);
+    border: 1px solid rgb(83, 2, 2);
+}
+
+.remove-btn-styled:hover {
+    background-color: rgb(170, 45, 45);
+}
+
+.add-btn-styled:hover {
+    background-color: rgb(161, 180, 141);
+}
